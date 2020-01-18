@@ -1,0 +1,14 @@
+*.jpg
+*.png
+*.csv
+*.gif
+*.pyc
+*.doc
+*.docx
+*.pdf
+*.ckpt.index
+*.ckpt.data-00000-of-00001
+*.ckpt.meta
+*.pckl
+_pycache_
+*.xlsx
